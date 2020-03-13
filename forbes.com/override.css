@@ -1,3 +1,12 @@
 .article-fixed {
     position: relative !Important;
 }
+
+body { 
+    overflow: scroll !Important; 
+    background-color: green; 
+} 
+
+.fbs-auth__container{ 
+    display: none; 
+}
