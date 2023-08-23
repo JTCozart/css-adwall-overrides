@@ -1,8 +1,10 @@
 #l-main-content .container {
-overflow-x: scroll;
-overflow-y: scroll;
+    overflow-x: scroll;
+    overflow-y: scroll;
     height: 950px;
-   position: static;
+    position: static;
 }
 
-
+.live-updates-module-full-width { 
+    display: none
+} 
