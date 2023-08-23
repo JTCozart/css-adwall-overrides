@@ -1,3 +1,13 @@
-div p { 
-  display: block !important
+ /* Bloomberg got smart and started restricting content server side. So this will display the first two paragrapths of the article again, but there is not way to get the rest of the article without more than CSS changes. */
+
+div p {
+    display: block !important
+}
+
+#fortress-paywall-container-root{
+    display: none
+} 
+
+div { 
+  mask-image: none !important;     
 } 
