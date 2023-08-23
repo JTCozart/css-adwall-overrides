@@ -3,12 +3,12 @@ CSS overrides for specific sites to get pass adwalls using stylus for chrome htt
 
 ## How To use
 
-- Install the stylus add-op for chrome, brave or firefox. 
+- Install the stylus add-on for chrome, brave or firefox. 
 - Navigate to the site that has the ad-block ad-wall that you wish to disable (this usually shows up in the form of a non-scrollable page) 
 - Add the CSS overrides from the desired site folders in this repo and refresh the page.
   
 ### Alternative Setup - Imports everything
-- Install the stylus add-op for chrome, brave or firefox.
+- Install the stylus add-on for chrome, brave or firefox.
 - Manage styles in stylish and choose retreive backup
 - Import the stylish_import file found in the root directory. 
 
