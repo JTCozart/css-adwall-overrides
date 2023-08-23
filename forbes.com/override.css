@@ -1,11 +1,18 @@
 .article-fixed {
     position: relative !Important;
 }
-
-body { 
-    overflow: scroll !Important; 
-} 
-
-.fbs-auth__container{ 
-    display: none; 
+body {
+    overflow: scroll !Important;
 }
+.fbs-auth__container {
+    display: none;
+}
+.zephr-article-modal-modal-open {
+    overflow: auto !Important;
+}
+.zephr-modal-open {
+    overflow: auto !Important;
+}
+.pay-wall-content { 
+  overflow: scroll !Important;   
+} 
